@@ -1,4 +1,4 @@
-# BH-Simalutor
+# BH-Simulator
 
 
 Menu :
